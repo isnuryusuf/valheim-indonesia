@@ -2,6 +2,7 @@
 ![image](https://user-images.githubusercontent.com/5492467/111425151-4e2c5500-8725-11eb-9fe2-575d644017da.png)
 
 **Server Name: Biznet**
+- Tipe: Valheim Plus (butuh pasang valheim plus client)
 - Pass: Biznet123
 - Anticheat: Active
 - Reset: no
@@ -49,6 +50,11 @@ Port Server: 2456
 Nama World/Map: Valhalla
 
 Password: rahasia
+
+# Cara Bermain di Valheim Plus Server Biznet
+- Download File dengan nama  WindowsClient.zip di link berikut https://github.com/valheimPlus/ValheimPlus/releases/tag/0.9.5.5
+- Locate your game folder manually or start Steam client and right-click the Valheim game in your Steam library and select Manage -> browse local files for Steam to open your game folder.
+- Extract the contents of the .zip file into the game folder.
 
 
 # Anti-Cheat (Untuk Valheim Plus Server Biznet)
