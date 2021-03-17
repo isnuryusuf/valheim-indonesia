@@ -21,7 +21,7 @@ Nama World/Map: Valhalla
 Password: rahasia
 
 
-# Anti-Cheat
+# Anti-Cheat (Untuk Valheim Plus Server Biznet)
 - Download https://github.com/isnuryusuf/valheim-indonesia/blob/main/bepinex.valheim.anticheat-451-0-1-1-1615574306.zip
 - Ekstrak file bepinex.valheim.anticheat-451-0-1-1-1615574306.zip ke dalam folder `<GameDirectory>\Bepinex\plugins`
-- 
+- Jalankan games client
