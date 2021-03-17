@@ -52,6 +52,9 @@ Isi Emai:
 - Download File dengan nama  WindowsClient.zip di link berikut https://github.com/valheimPlus/ValheimPlus/releases/tag/0.9.5.5
 - Locate your game folder manually or start Steam client and right-click the Valheim game in your Steam library and select Manage -> browse local files for Steam to open your game folder.
 - Extract the contents of the .zip file into the game folder.
+- Tampilan jika Valheim Plus sudah berhasil terinstall
+- ![image](https://user-images.githubusercontent.com/5492467/111427090-27bbe900-8728-11eb-9bb6-16943979faa8.png)
+
 
 
 # Anti-Cheat (Untuk Valheim Plus Server Biznet)
