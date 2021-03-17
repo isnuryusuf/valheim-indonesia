@@ -16,12 +16,12 @@
 - Anticheat: Active
 - Reset: no
 
-**Server Name: Biznet Gio - Neospace**
+**Server Name: Biznet Gio - Neo Space**
 - Pass: biznet
 - Anticheat: Active
 - Reset: yes, weekly
 
-**Server Name: Biznet Gio - Neosweb**
+**Server Name: Biznet Gio - Neo Web**
 - Pass: biznet
 - Anticheat: Active
 - Reset: yes, weekly
