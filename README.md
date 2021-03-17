@@ -64,3 +64,10 @@ Isi Emai:
 - Download https://github.com/isnuryusuf/valheim-indonesia/blob/main/bepinex.valheim.anticheat-451-0-1-1-1615574306.zip
 - Ekstrak file bepinex.valheim.anticheat-451-0-1-1-1615574306.zip ke dalam folder `<GameDirectory>\Bepinex\plugins`
 - Jalankan games client seperti biasa
+- struktur direktori setelah terinstall
+```
+<GameDirectory>\Bepinex\plugin\
+├── AntiCheat
+│   └── AntiCheat.dll
+└── ValheimPlus.dll
+```
