@@ -23,4 +23,5 @@ Password: rahasia
 
 # Anti-Cheat
 - Download https://github.com/isnuryusuf/valheim-indonesia/blob/main/bepinex.valheim.anticheat-451-0-1-1-1615574306.zip
-- Ekstrak file bepinex.valheim.anticheat-451-0-1-1-1615574306.zip ke dalam folder <GameDirectory>\Bepinex\plugins
+- Ekstrak file bepinex.valheim.anticheat-451-0-1-1-1615574306.zip ke dalam folder `<GameDirectory>\Bepinex\plugins`
+- 
