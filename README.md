@@ -6,6 +6,26 @@
 - Anticheat: Active
 - Reset: no
 
+**Server Name: Biznet Gio - Giocloud**
+- Pass: biznet
+- Anticheat: Active
+- Reset: no
+
+**Server Name: Biznet Gio - Neocloud**
+- Pass: biznet
+- Anticheat: Active
+- Reset: no
+
+**Server Name: Biznet Gio - Neospace**
+- Pass: biznet
+- Anticheat: Active
+- Reset: yes, weekly
+
+**Server Name: Biznet Gio - Neosweb**
+- Pass: biznet
+- Anticheat: Active
+- Reset: yes, weekly
+
 
 
 # valheim-indonesia Membuat Dedicated Server
