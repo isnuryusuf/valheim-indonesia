@@ -1,5 +1,9 @@
 # List Biznet Valheim Server
 ![image](https://user-images.githubusercontent.com/5492467/111425151-4e2c5500-8725-11eb-9fe2-575d644017da.png)
+- Server Name: Biznet
+-- Pass: Biznet123
+-- Anticheat: Active
+-- Reset: no
 
 
 
