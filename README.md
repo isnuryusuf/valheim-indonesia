@@ -1,6 +1,6 @@
 # List Biznet Valheim Server
 ![image](https://user-images.githubusercontent.com/5492467/111425151-4e2c5500-8725-11eb-9fe2-575d644017da.png)
-
+```
 **Server Name: Biznet**
 - Tipe: Valheim Plus (butuh pasang valheim plus client)
 - Pass: Biznet123
@@ -26,7 +26,7 @@
 - Pass: biznet
 - Anticheat: Active
 - Reset: yes, weekly
-
+```
 
 
 # valheim-indonesia Membuat Dedicated Server
