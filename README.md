@@ -33,8 +33,8 @@
 Membuat Dedicated Server Valheim di Biznet Gio Cloud
 
 1. Daftar account di https://portal.neo.id/register
-2. asd
-3. asd
+2. Work In Progress
+3. Work In Progress
 
 
 
@@ -50,6 +50,7 @@ Port Server: 2456
 Nama World/Map: Valhalla
 
 Password: rahasia
+
 
 # Cara Bermain di Valheim Plus Server Biznet
 - Download File dengan nama  WindowsClient.zip di link berikut https://github.com/valheimPlus/ValheimPlus/releases/tag/0.9.5.5
