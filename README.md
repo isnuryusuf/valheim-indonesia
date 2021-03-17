@@ -1,34 +1,34 @@
 # List Biznet Valheim Server
 ![image](https://user-images.githubusercontent.com/5492467/111425151-4e2c5500-8725-11eb-9fe2-575d644017da.png)
 ```
-**Server Name: Biznet**
+Server Name: Biznet
 - Tipe: Valheim Plus (butuh pasang valheim plus client)
 - Pass: Biznet123
 - Anticheat: Active
 - Reset: no
 
-**Server Name: Biznet Gio - Giocloud**
+Server Name: Biznet Gio - Giocloud
 - Pass: biznet
 - Anticheat: Active
 - Reset: no
 
-**Server Name: Biznet Gio - Neocloud**
+Server Name: Biznet Gio - Neocloud
 - Pass: biznet
 - Anticheat: Active
 - Reset: no
 
-**Server Name: Biznet Gio - Neo Space**
+Server Name: Biznet Gio - Neo Space
 - Pass: biznet
 - Anticheat: Active
 - Reset: yes, weekly
 
-**Server Name: Biznet Gio - Neo Web**
+Server Name: Biznet Gio - Neo Web
 - Pass: biznet
 - Anticheat: Active
 - Reset: yes, weekly
 ```
 
-
+---
 # valheim-indonesia Membuat Dedicated Server
 Membuat Dedicated Server Valheim di Biznet Gio Cloud
 
@@ -47,7 +47,7 @@ Isi Emai:
 - Nama World/Map: Valhalla
 - Password: rahasia
 
-
+---
 # Cara Bermain di Valheim Plus Server Biznet
 - Download File dengan nama  WindowsClient.zip di link berikut https://github.com/valheimPlus/ValheimPlus/releases/tag/0.9.5.5
 - Locate your game folder manually or start Steam client and right-click the Valheim game in your Steam library and select Manage -> browse local files for Steam to open your game folder.
@@ -56,7 +56,7 @@ Isi Emai:
 - ![image](https://user-images.githubusercontent.com/5492467/111427090-27bbe900-8728-11eb-9bb6-16943979faa8.png)
 
 
-
+---
 # Anti-Cheat (Untuk Valheim Plus Server Biznet)
 - Download https://github.com/isnuryusuf/valheim-indonesia/blob/main/bepinex.valheim.anticheat-451-0-1-1-1615574306.zip
 - Ekstrak file bepinex.valheim.anticheat-451-0-1-1-1615574306.zip ke dalam folder `<GameDirectory>\Bepinex\plugins`
